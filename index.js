@@ -9,3 +9,4 @@ let num4 = 6;
 let mod = num3 % num4; 
 
 let max = Math.max(2, 7, 13, 20, 14,18);
+
